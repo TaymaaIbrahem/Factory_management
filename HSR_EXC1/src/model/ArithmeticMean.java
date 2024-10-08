@@ -3,7 +3,7 @@ package model;
 import java.io.Serializable;
 import java.util.HashSet;
 import java.util.Set;
-
+// calculate arthimetc mean
 public class ArithmeticMean implements ScoreCalculator , Serializable {
 
 	
